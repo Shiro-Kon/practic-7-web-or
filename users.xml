@@ -1,0 +1,17 @@
+<users>
+    <user>
+        <id>1</id>
+        <name>Andrii</name>
+        <lastname>Yarmak</lastname>
+    </user>
+    <user>
+        <id>2</id>
+        <name>Jey</name>
+        <lastname>Gerto</lastname>
+    </user>
+    <user>
+        <id>3</id>
+        <name>Beras</name>
+        <lastname>Kertad</lastname>
+    </user>
+</users>
